@@ -43,6 +43,12 @@ To use the dark theme, simply include `basic-dark.css` after the main PhotoSwipe
 import '@juji/photoswipe/basic-dark.css';
 ```
 
+### Screenshots
+
+**Dark Theme Examples:**
+![Dark Theme 1](https://i.postimg.cc/6Q55kvtf/basic-dark.png)
+![Dark Theme 2](https://i.postimg.cc/Mp1Q6Vkf/Screenshot-2025-12-03-at-23-59-01.png)
+
 
 ### Repo structure
 
