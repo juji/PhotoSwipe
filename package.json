@@ -1,6 +1,6 @@
 {
   "name": "@juji/photoswipe",
-  "version": "5.4.5",
+  "version": "5.4.6",
   "main": "dist/photoswipe.esm.js",
   "style": "dist/photoswipe.css",
   "type": "module",
