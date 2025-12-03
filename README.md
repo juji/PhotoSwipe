@@ -46,7 +46,7 @@ import '@juji/photoswipe/basic-dark.css';
 ### Screenshots
 
 **Dark Theme Example:**
-![Dark Theme Demo](https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af19493511ccf0584b26ba18adfd0f74cce5ea970b083294177afdc56ab7b86b6e8860a04b3b3467dad2b044333cb443be27b75acb5865d07d9ef1944b1554b5f39b11b)
+![Dark Theme Demo](https://github.com/juji/PhotoSwipe/raw/release/preview.gif)
 
 
 ### Repo structure
