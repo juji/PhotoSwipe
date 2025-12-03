@@ -16,6 +16,7 @@
     },
     "./dist/photoswipe.css": "./dist/photoswipe.css",
     "./photoswipe.css": "./dist/photoswipe.css",
+    "./basic-dark.css": "./dist/basic-dark.css",
     "./style.css": "./dist/photoswipe.css"
   },
   "typesVersions": {
