@@ -16,6 +16,7 @@ This is a fork of the original [PhotoSwipe](https://github.com/dimsemenov/PhotoS
 - **Rapid Input Handling**: Properly manages rapid button/key presses to prevent animation conflicts
 - **Accessibility Support**: Respects `prefers-reduced-motion` for users who prefer reduced animations
 - **Dynamic Timing**: Uses the CSS custom property `--pswp-transition-duration` for consistent timing
+- **Dark Theme Support**: Includes `basic-dark.css` for easy dark theme implementation
 
 These changes maintain full compatibility with the original PhotoSwipe API and behavior.
 
