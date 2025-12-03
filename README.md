@@ -37,7 +37,11 @@ The `basic-dark.css` file provides a complete dark theme for PhotoSwipe with the
 
 - **Animation Support**: Includes blur animations for opening/closing transitions using the `pswp--closing` class
 
-To use the dark theme, simply include `basic-dark.css` after the main PhotoSwipe CSS.
+To use the dark theme, simply include `basic-dark.css` after the main PhotoSwipe CSS:
+
+```javascript
+import '@juji/photoswipe/basic-dark.css';
+```
 
 
 ### Repo structure
