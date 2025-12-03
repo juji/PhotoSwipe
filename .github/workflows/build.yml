@@ -1,7 +1,6 @@
 name: PhotoSwipe Jobs
 
-# Workflow disabled for fork - original workflow requires specific secrets and deployment setup
-# on: [workflow_dispatch]
+on: [workflow_dispatch]
 
 jobs:
   build:
