@@ -46,8 +46,8 @@ import '@juji/photoswipe/basic-dark.css';
 ### Screenshots
 
 **Dark Theme Examples:**
-![Dark Theme 1](https://i.postimg.cc/6Q55kvtf/basic-dark.png)
-![Dark Theme 2](https://i.postimg.cc/Mp1Q6Vkf/Screenshot-2025-12-03-at-23-59-01.png)
+<img src="https://i.postimg.cc/6Q55kvtf/basic-dark.png" width="100%" alt="Dark Theme Example 1">
+<img src="https://i.postimg.cc/Mp1Q6Vkf/Screenshot-2025-12-03-at-23-59-01.png" width="100%" alt="Dark Theme Example 2">
 
 
 ### Repo structure
