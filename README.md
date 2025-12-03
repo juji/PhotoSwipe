@@ -8,6 +8,17 @@ PhotoSwipe v5 — JavaScript image gallery and lightbox
 [![Sponsor via OpenCollective](https://img.shields.io/opencollective/all/photoswipe?label=Sponsor%20via%20OpenCollective)](https://opencollective.com/photoswipe)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/photoswipe?style=social)](https://twitter.com/intent/user?screen_name=photoswipe)
 
+## About This Fork
+
+This is a fork of the original [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) library. It includes additional enhancements for smoother user interactions:
+
+- **Smooth Transition Animations**: Added animated transitions for slide navigation via arrow buttons and keyboard arrow keys
+- **Rapid Input Handling**: Properly manages rapid button/key presses to prevent animation conflicts
+- **Accessibility Support**: Respects `prefers-reduced-motion` for users who prefer reduced animations
+- **Dynamic Timing**: Uses the CSS custom property `--pswp-transition-duration` for consistent timing
+
+These changes maintain full compatibility with the original PhotoSwipe API and behavior.
+
 
 ### Repo structure
 
