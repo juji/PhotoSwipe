@@ -20,6 +20,25 @@ This is a fork of the original [PhotoSwipe](https://github.com/dimsemenov/PhotoS
 
 These changes maintain full compatibility with the original PhotoSwipe API and behavior.
 
+### About Basic Dark Theme
+
+The `basic-dark.css` file provides a complete dark theme for PhotoSwipe with the following features:
+
+- **CSS Custom Properties**: 
+  - `--pswp-theme-background-base`: Controls the base background color (default: black)
+  - `--pswp-theme-foreground-base`: Controls text and icon colors (default: white)  
+  - `--pswp-theme-radius`: Controls border radius for UI elements (default: 0.3rem)
+
+- **Enhanced UI Elements**: 
+  - Semi-transparent backgrounds with backdrop blur effects
+  - Improved button styling with hover states
+  - Responsive arrow button design
+  - Modern glassmorphism aesthetic
+
+- **Animation Support**: Includes blur animations for opening/closing transitions using the `pswp--closing` class
+
+To use the dark theme, simply include `basic-dark.css` after the main PhotoSwipe CSS.
+
 
 ### Repo structure
 
